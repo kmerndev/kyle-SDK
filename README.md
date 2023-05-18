@@ -1,6 +1,6 @@
 # Your SDK Name
 
-A comprehensive SDK for interacting with the [The One API](https://the-one-api.dev/sign-up).
+A comprehensive [SDK](https://github.com/kmerndev/kyle-SDK) for interacting with the [The One API](https://the-one-api.dev/sign-up).
 
 ## Features
 
